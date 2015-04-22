@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E4710E6B-C951-4BAA-ACE9-FA6C63BD23E4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>pkmQuadTree</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC6E2C52937C7F0565B2A159025A26664950C899</key>
+		<string>github.com:pkmital/pkmKalman.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>pkmQuadTree.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC6E2C52937C7F0565B2A159025A26664950C899</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:pkmital/pkmKalman.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC6E2C52937C7F0565B2A159025A26664950C899</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC6E2C52937C7F0565B2A159025A26664950C899</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pkmQuadTree</string>
+		</dict>
+	</array>
+</dict>
+</plist>
